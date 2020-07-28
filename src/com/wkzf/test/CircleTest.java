@@ -3,7 +3,7 @@ package com.wkzf.test;
 public class CircleTest {
     public static void main(String[] args)
     {
-        int x=1;
+        int x=12;
         while(x<20)
         {
             System.out.println("value of x:" + x);
